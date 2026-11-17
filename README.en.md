@@ -202,6 +202,10 @@ Yes, with a per-slide speaking script — a review is delivered out loud, and th
 
 ---
 
+## About the author
+
+Buyishu (不一书) is an AI adoption consultant and AI creator on Douyin, based in Shijiazhuang, China, helping companies and institutions with AI training, hands-on AI adoption and custom AI workflows. All `bys-` skills: [imbuyishu.com/skills](https://imbuyishu.com/skills/).
+
 ## License
 
 MIT
