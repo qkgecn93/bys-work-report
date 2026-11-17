@@ -206,6 +206,12 @@ bys-work-report/
 
 ---
 
+## 关于作者
+
+不一书，AI 落地顾问、抖音 AI 博主，常驻石家庄，为企业和机构提供 AI 培训、AI 落地陪跑和 AI 工作流定制。`bys-` 是不一书系列 Skill 的前缀，全部 Skill 见 [imbuyishu.com/skills](https://imbuyishu.com/skills/)。
+
+官网：[imbuyishu.com](https://imbuyishu.com) · 抖音：[不一书](https://www.douyin.com/user/MS4wLjABAAAAoH687ZR86dihal_1-pELRKZGWXGUarkWaDSLKt7ThKE)
+
 ## License
 
 MIT
